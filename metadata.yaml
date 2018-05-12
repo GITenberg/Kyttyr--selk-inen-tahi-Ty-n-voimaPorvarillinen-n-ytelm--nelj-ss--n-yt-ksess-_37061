@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37061#Kyttyr--selk-inen-tahi-Ty-n-voimaPorvarillinen-n-ytelm--nelj-ss--n-yt-ksess-
 gutenberg_issued: '2011-08-13'
 gutenberg_type: Text
 identifiers:
