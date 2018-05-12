@@ -1,0 +1,24 @@
+_repo: Kyttyr--selk-inen-tahi-Ty-n-voimaPorvarillinen-n-ytelm--nelj-ss--n-yt-ksess-_37061
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wivolin, Karl Gustaf
+    gutenberg_agent_id: '38623'
+    url: http://www.gutenberg.org/2009/agents/38623
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37061'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Drama'
+title: 'Kyttyrä-selkäinen tahi Työn voima: Porvarillinen näytelmä neljässä näytöksessä'
+url: http://www.gutenberg.org/ebooks/37061
